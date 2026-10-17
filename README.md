@@ -73,7 +73,7 @@ Built an interactive dashboard featuring:
 
 The interactive Power BI dashboard provides a consolidated view of customer metrics and churn patterns.
 
-<!-- Add your dashboard screenshot here after uploading it to the repository. -->
+![Customer Churn Analysis Dashboard](powerbi/dashboard_preview.png)
 
 ## 📁 Repository Structure
 
